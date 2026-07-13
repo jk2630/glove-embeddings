@@ -1,1 +1,3 @@
+Below wget command is to run in colab cell. Need to unzip to get model and pkl file
 
+command: !wget -O "538-hw1-117411478-models.zip" "https://drive.google.com/file/d/1rcaeOIqjmw2cg4vxwZcvWhFoB1ccCnzg/view?usp=drive_link"
